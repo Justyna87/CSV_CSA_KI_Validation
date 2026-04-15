@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Your Business Name</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    body { font-family: Arial; margin: 0; }
+    header { background: #333; color: white; padding: 20px; text-align: center; }
+    nav { background: #555; padding: 10px; text-align: center; }
+    nav a { color: white; margin: 10px; text-decoration: none; }
+    section { padding: 40px; }
+    .hero { background: #f4f4f4; text-align: center; }
+    footer { background: #333; color: white; text-align: center; padding: 10px; }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Your Business Name</h1>
+  <p>Your slogan here</p>
+</header>
+
+<nav>
+  <a href="#about">About</a>
+  <a href="#services">Services</a>
+  <a href="#contact">Contact</a>
+</nav>
+
+<section class="hero">
+  <h2>Welcome to our business</h2>
+  <p>We help you solve problems.</p>
+</section>
+
+<section id="about">
+  <h2>About Us</h2>
+  <p>Write about your company here.</p>
+</section>
+
+<section id="services">
+  <h2>Our Services</h2>
+  <ul>
+    <li>Service 1</li>
+    <li>Service 2</li>
+    <li>Service 3</li>
+  </ul>
+</section>
+
+<section id="contact">
+  <h2>Contact</h2>
+  <p>Email: your@email.com</p>
+</section>
+
+<footer>
+  <p>© 2026 Validation Business</p>
+</footer>
+
+</body>
+</html>
