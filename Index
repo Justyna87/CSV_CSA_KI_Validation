@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Your Business Name</title>
+  <title>Helping you business to become compliant!</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <style>
     body { font-family: Arial; margin: 0; }
@@ -16,7 +16,7 @@
 <body>
 
 <header>
-  <h1>Your Business Name</h1>
+  <h1>Justyna validates</h1>
   <p>Your slogan here</p>
 </header>
 
@@ -33,15 +33,16 @@
 
 <section id="about">
   <h2>About Us</h2>
-  <p>Write about your company here.</p>
+  <p>In teh age of digital transformation it is important to care about your business and reputation</p>
 </section>
 
 <section id="services">
   <h2>Our Services</h2>
   <ul>
-    <li>Service 1</li>
-    <li>Service 2</li>
-    <li>Service 3</li>
+    <li>CSV</li>
+    <li>CSA</li>
+    <li>KI</li>
+    <li>SAP</li>
   </ul>
 </section>
 
