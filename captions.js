@@ -1,0 +1,3 @@
+// Contents of captions.js
+// 
+// Add your captions functions or data here...
